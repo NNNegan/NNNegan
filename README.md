@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm MAREDDY SANJAY REDDY</h1>
-<h3 align="center">Aspiring Software Engineer</h3>
+<h1 align="center">Hi 👋, I'm  SANJAY </h1>
 
-<!-- Pixel Style Typing Animation -->
+
+<!-- Pixel Blink + Type Animation -->
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=18&duration=3500&pause=1200&color=D3D3D3&background=00000000&center=true&vCenter=true&width=600&height=70&lines=%3E_+AI%2FML+Enthusiast" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=18&duration=1200&pause=2000&color=5B77A1&background=00000000&center=true&vCenter=true&width=650&height=70&lines=%3E_+Aspiring+Software+Engineer&cursor=true&cursorChar=_" />
 </p>
 
 <!-- Profile Views -->
