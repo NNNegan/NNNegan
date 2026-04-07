@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm  SANJAY </h1>
+<h1 align="center">Hi , I'm  SANJAY </h1>
 
 
 <!-- Pixel Blink + Type Animation -->
