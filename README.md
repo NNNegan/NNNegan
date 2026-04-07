@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm MAREDDY SANJAY REDDY</h1>
 <h3 align="center">Aspiring Software Engineer</h3>
 
-<!-- Retro Pixel Bounce Animation -->
+<!-- Pixel Style Typing Animation -->
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=18&duration=2000&pause=800&color=39FF14&background=00000000&center=true&vCenter=true&random=true&width=600&height=70&lines=A%24piring+Software+Engineer;AI+%7C+ML+Enthusiast;Python+Developer;Passionate+Problem+Solver;%3E_+Booting+Skills...;Loading+Future...;Hacking+the+Matrix" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=18&duration=3500&pause=1200&color=D3D3D3&background=00000000&center=true&vCenter=true&width=600&height=70&lines=%3E_+AI%2FML+Enthusiast" />
 </p>
 
 <!-- Profile Views -->
@@ -51,15 +51,20 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-B07219?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white)
+
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white)
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-FF6F00?style=for-the-badge&logo=google&logoColor=white)
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </p>
@@ -70,9 +75,11 @@
 <p>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nnnegan&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
 </p>
+
 <p>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=nnnegan&show_icons=true&locale=en&theme=tokyonight" />
 </p>
+
 <p>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nnnegan&theme=tokyonight" />
 </p>
@@ -81,3 +88,8 @@
 
 ### 🐍 Contribution Snake (Setup Required)
 ![snake gif](https://github.com/nnnegan/nnnegan/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+### ⚡ Fun Fact
+I love building AI-powered projects and solving real-world problems 🚀
