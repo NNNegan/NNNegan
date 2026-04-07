@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm MAREDDY SANJAY REDDY</h1>
+<h1 align="center">Hi 👋, I'm SANJAY </h1>
 <h3 align="center">Aspiring Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nnnegan&label=Profile%20views&color=0e75b6&style=flat" alt="nnnegan" /> </p>
