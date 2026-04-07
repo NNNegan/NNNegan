@@ -1,16 +1,35 @@
-## Hi there 👋
+## 👋 Hi, I'm Sanjay Reddy
 
-<!--
-**NNNegan/NNNegan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **B.Tech Computer Science (AI & ML)** student at Vignan Institute of Technology and Science, passionate about building real-world solutions using **Python, AI/ML, and computer vision**.
 
-Here are some ideas to get you started:
+I enjoy solving problems and developing projects that combine **data structures, machine learning, and practical applications**, such as traffic optimization systems, image processing, and augmented reality experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 What I Do
+- 💻 Work with **Python, C, SQL, and basic Java**
+- 🤖 Explore **AI/ML concepts** using NumPy, Pandas, and Scikit-learn
+- 👁️ Build **computer vision projects** using OpenCV & MediaPipe
+- 🌐 Develop basic **web applications** using HTML & CSS
+
+---
+
+### 🛠️ Projects Highlight
+- 🚑 Traffic Route Optimization using BFS  
+- 🎨 Color Recognition in Images  
+- 📊 Student Result Management System  
+- 🌐 Personal Portfolio Website  
+- 🖐️ AR Hand Gesture Project using MediaPipe  
+
+---
+
+### 🎯 Goals
+- Gain hands-on industry experience  
+- Improve problem-solving and development skills  
+- Build impactful AI-driven applications  
+
+---
+
+### 📫 Contact Me
+- 📧 Email: mareddysanjayreddy05@gmail.com  
+- 🔗 LinkedIn: https://www.linkedin.com/in/sanjay-reddy-760549278
