@@ -3,7 +3,7 @@
 
 <!-- Retro Pixel Bounce Animation -->
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Byte+Bounce&size=28&duration=2000&pause=800&color=39FF14&background=00000000&center=true&vCenter=true&random=true&width=560&height=70&lines=A%24piring+$oftware+Engin33r;A1+%7C+ML+Enthus1ast;Pyth0n+Dev3loper;Pass10nate+Prob1em+$olver;%3E_%+B00ting+Ski11s...;%5B%5D+L04ding+Futur3...;%23%23+H4cking+the+Matrix" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=18&duration=2000&pause=800&color=39FF14&background=00000000&center=true&vCenter=true&random=true&width=600&height=70&lines=A%24piring+Software+Engineer;AI+%7C+ML+Enthusiast;Python+Developer;Passionate+Problem+Solver;%3E_+Booting+Skills...;Loading+Future...;Hacking+the+Matrix" />
 </p>
 
 <!-- Profile Views -->
