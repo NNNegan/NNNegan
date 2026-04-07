@@ -21,7 +21,7 @@
 ---
 
 ### 🌱 Currently Learning
-- Python, C, SQL, and basic Java  
+- Machine learning,Data Analytics,Animations  
 
 ### 📫 Contact Me
 - Email: **mareddysanjayreddy05@gmail.com**  
