@@ -6,10 +6,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=18&duration=1200&pause=2000&color=5B77A1&background=00000000&center=true&vCenter=true&width=650&height=70&lines=%3E_+Aspiring+Software+Engineer&cursor=true&cursorChar=_" />
 </p>
 
-<!-- Profile Views -->
-<p align="left"> 
-<img src="https://komarev.com/ghpvc/?username=nnnegan&label=Profile%20views&color=0e75b6&style=flat" /> 
-</p>
+
 
 <!-- Trophies -->
 <p align="left"> 
